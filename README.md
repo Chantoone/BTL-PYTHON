@@ -4,3 +4,4 @@
 4) delete : xóa người dùng dựa vào id
 5) update_face: thay đổi cập nhật ảnh người dùng
    
+3  file main 1,2 và learn không sử dụng nma k biết xóa đi kiểu gì :))
